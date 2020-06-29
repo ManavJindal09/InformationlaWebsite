@@ -159,4 +159,10 @@ transform: translateY(20px);
 	#info{
 		display: none;
 	}
+	#navbar{
+		display: none;
+	}
+	#header .responsive_icon{
+		display: block;
+	}
 }
